@@ -3,6 +3,10 @@
 At the time I am making this project, I haven't found any designs for medium-sized (md) and small devices (sm).
 So, the responsive design of this template has been innovated by me using the standard hamburger menu.
 
+# Deployed Link:
+
+Site is live at: https://arnav-nexcent.netlify.app/
+
 # ℹ️ How to use this Repository?
 
 1. Clone the repository to your local machine
